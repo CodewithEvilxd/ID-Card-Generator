@@ -87,7 +87,7 @@ graph TD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yash-Kavaiya/ID-Card-Generator.git
+   git clone https://github.com/codewithevilxd/ID-Card-Generator.git
    ```
 2. Navigate to the project directory:
    ```bash
