@@ -10,9 +10,6 @@
 
 ![ID Card Generator](./image.png)
 
-## 📺 Demo Video
-
-[![Generate Visitor ID Cards web application](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Generate_Visitor_ID_Cards_web_application)
 
 Click the badge above to watch a complete demonstration of the ID Card Generator application. The video walks through all features including setup, card creation, and downloading.
 
@@ -190,14 +187,7 @@ sequenceDiagram
 - 📱 Native mobile application
 - 🖨️ Direct printing support
 
-## 👨‍💻 Author & Contact
 
-- **Yash Kavaiya**
-- [GitHub](https://github.com/Yash-Kavaiya)
-- [LinkedIn](https://www.linkedin.com/in/yash-kavaiya/)
-- [Medium](https://medium.com/@yash.kavaiya3)
-- [Kaggle](https://www.kaggle.com/yashkavaiya)
-- [Aspecta](https://aspecta.id/u/Yash-Kavaiya)
 
 ---
 
